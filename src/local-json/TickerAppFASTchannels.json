@@ -1,0 +1,116 @@
+[
+    {
+      "category": "Ticker News Live",
+      "title": "News and analysis of today’s issues. Offering fair-minded coverage of politics, economics and tech.",
+      "thumbnametitle": "Ticker News",
+      "thumbnail_urls": [
+        {
+          "605x340": "https://tickernews.co/wp-content/uploads/2023/08/ticker-news-fastapplogo-aug23-605.png"
+        },
+        {
+          "403x226": "https://tickernews.co/wp-content/uploads/2023/08/ticker-news-fastapplogo-aug23-403.png"
+        },
+        {
+          "1920x1080": "https://tickernews.co/wp-content/uploads/2023/08/ticker-news-fastapplogo-aug23-1920.png"
+        }
+      ],
+      "poster1920x1080_url": "https://tickernews.co/wp-content/uploads/2023/09/TickerNews1920x1080.jpg",
+      "poster800x450_url": "https://tickernews.co/wp-content/uploads/2023/09/TickerNews800x450.png",
+      "video_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernews-ono/playlist.m3u8?app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&url=REPLACE_ME&genre=REPLACE_ME&ic=REPLACE_ME&us_privacy=REPLACE_ME&gdpr=REPLACE_ME&gdpr_consent=REPLACE_ME&did=REPLACE_ME&dnt=REPLACE_ME&coppa=REPLACE_ME"
+    },
+    {
+      "category": "Ticker Docos LIVE",
+      "title": "Featuring compelling documentaries exploring the intricate world of business, politics, and major events shaping our world.",
+      "thumbnametitle": "Ticker Docos",
+      "thumbnail_urls": [
+        {
+          "605x340": "https://tickernews.co/wp-content/uploads/2023/08/DOCOSLOGO-605.png"
+        },
+        {
+          "403x226": "https://tickernews.co/wp-content/uploads/2023/08/DOCOSLOGO-403.png"
+        },
+        {
+          "1920x1080": "https://tickernews.co/wp-content/uploads/2023/08/DOCOSPOSTER-1080.png"
+        }
+      ],
+      "poster1920x1080_url": "https://tickernews.co/wp-content/uploads/2023/09/TickerDocos1920x1080.jpg",
+      "poster800x450_url": "https://tickernews.co/wp-content/uploads/2023/09/TickerDocos800x450.png",
+      "video_url": "https://live-hls-klqp.livepush.io/live_cdn/em5YeZ9c5IaatSZb/index.m3u8"
+    },
+    {
+      "category": "Ticker Money LIVE",
+      "title": "Delving into the captivating narratives of business, personal finance, markets, and leadership that drive our economic landscape.",
+      "thumbnametitle": "Ticker Money",
+      "thumbnail_urls": [
+        {
+          "605x340": "https://tickernews.co/wp-content/uploads/2023/08/MONEYLOGO-605.png"
+        },
+        {
+          "403x226": "https://tickernews.co/wp-content/uploads/2023/08/MONEYLOGO-403.png"
+        },
+        {
+          "1920x1080": "https://tickernews.co/wp-content/uploads/2023/08/MONEYLOGO-1920.png"
+        }
+      ],
+      "poster1920x1080_url": "https://tickernews.co/wp-content/uploads/2023/09/TickerMoney1920x1080.jpg",
+      "poster800x450_url": "https://tickernews.co/wp-content/uploads/2023/09/TickerMoney800x450.png",
+      "video_url": "https://live-hls-klqp.livepush.io/live_cdn/emMEvYyrtwHln9pq/index.m3u8"
+    },
+    {
+      "category": "Ticker Chef LIVE",
+      "title": "Where tradition meets innovation.",
+      "thumbnametitle": "Ticker Chef",
+      "thumbnail_urls": [
+        {
+          "605x340": "https://tickernews.co/wp-content/uploads/2023/08/CHEFLOGO-605.png"
+        },
+        {
+          "403x226": "https://tickernews.co/wp-content/uploads/2023/08/CHEFLOGO-403.png"
+        },
+        {
+          "1920x1080": "https://tickernews.co/wp-content/uploads/2023/08/CHEFLOGO-1920.png"
+        }
+      ],
+      "poster1920x1080_url": "https://tickernews.co/wp-content/uploads/2023/09/TickerChef1920x1080.jpg",
+      "poster800x450_url": "https://tickernews.co/wp-content/uploads/2023/09/TickerChef800x450.png",
+      "video_url": "https://live-hls-klqp.livepush.io/live_cdn/emRsiDBzw9HjxbllS/index.m3u8"
+    },
+    {
+      "category": "Ticker Active LIVE",
+      "title": "Empowering you to embark on a journey to a healthier, more active, and fulfilling lifestyle.",
+      "thumbnametitle": "Ticker Active",
+      "thumbnail_urls": [
+        {
+          "605x340": "https://tickernews.co/wp-content/uploads/2023/08/ACTIVELOGO-605.png"
+        },
+        {
+          "403x226": "https://tickernews.co/wp-content/uploads/2023/08/ACTIVELOGO-403.png"
+        },
+        {
+          "1920x1080": "https://tickernews.co/wp-content/uploads/2023/08/ACTIVELOGO-1920.png"
+        }
+      ],
+      "poster1920x1080_url": "https://tickernews.co/wp-content/uploads/2023/09/TickerActive1920x1080.jpg",
+      "poster800x450_url": "https://tickernews.co/wp-content/uploads/2023/09/TickerActive800x450.png",
+      "video_url": "https://live-hls-klqp.livepush.io/live_cdn/emssU_DWNY-DKvTsI/index.m3u8"
+    },
+    {
+      "category": "Ticker Insight LIVE",
+      "title": "Unparalleled access to the minds of global business leaders and entrepreneurs through exclusive interviews, revealing their strategies and stories.",
+      "thumbnametitle": "Ticker Insight",
+      "thumbnail_urls": [
+        {
+          "605x340": "https://tickernews.co/wp-content/uploads/2023/08/ticker-insight-fastapplogo-aug23-605.png"
+        },
+        {
+          "403x226": "https://tickernews.co/wp-content/uploads/2023/08/ticker-insight-fastapplogo-aug23-403.png"
+        },
+        {
+          "1920x1080": "https://tickernews.co/wp-content/uploads/2023/08/ticker-insight-fastapplogo-aug23-1920.png"
+        }
+      ],
+      "poster1920x1080_url": "https://tickernews.co/wp-content/uploads/2023/08/INSIGHTPOSTER-1080.png",
+      "poster800x450_url": "https://tickernews.co/wp-content/uploads/2023/08/INSIGHTPOSTER-800.png",
+      "video_url": "https://live-hls-klqp.livepush.io/live_cdn/emRL6zvQG87582hO/index.m3u8"
+    }
+  ]
